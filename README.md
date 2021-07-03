@@ -1,6 +1,6 @@
 # simple-RIT-model
 
-Revision: 1.3
+Revision: 1.3 /n
 Author: Ruslan Rakhimov https://www.researchgate.net/profile/Ruslan-Rakhimov
 Company: Avant Space
 Link to the article: https://www.researchgate.net/publication/336013173_Numerical_simulation_of_plasma_discharge_in_RF_ion_thruster
