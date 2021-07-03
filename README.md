@@ -4,7 +4,7 @@ Revision: 1.3
 
 Author: Ruslan Rakhimov https://www.researchgate.net/profile/Ruslan-Rakhimov
 
-Company: Avant Space
+Company: Avant Space https://avantspace.com/
 
 Link to the article: https://www.researchgate.net/publication/336013173_Numerical_simulation_of_plasma_discharge_in_RF_ion_thruster
 
